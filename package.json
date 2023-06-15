@@ -1,0 +1,27 @@
+{
+    "name": "react-native-crispy-bassoon",
+    "version": "1.0.0",
+    "description": "this is designed for crispy tools",
+    "homepage": "https://github.com/cathyjones126/react-native-crispy-bassoon",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-crispy-bassoon"
+    ],
+    "author": {
+      "name": "crispy",
+      "email": "crispy@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cathyjones126/react-native-crispy-bassoon.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
